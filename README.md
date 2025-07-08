@@ -6,7 +6,7 @@ to install a copy of thsi toolkit, open terminal and run:
 
 ...
 
-git clone git@github.com:livflynn/CLimate-analysis.git
+git clone git@github.com:livflynn/Climate-analysis.git
 
 ...
 
